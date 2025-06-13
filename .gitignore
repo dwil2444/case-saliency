@@ -384,6 +384,7 @@ conf_matrices/*
 
 # RQ Scripts
 ablation_co.sh
+ablation_rq_one.sh
 ablation_latent.sh
 cluster_plots.sh
 gc_eval.sh
