@@ -9,7 +9,7 @@ This repository contains the full experimental pipeline for our paper:
 
 > **CASE: Contrastive Activation for Saliency Estimation**
 > Dane Williamson, Matthew Dwyer, Yangfeng Ji
-> Springer Machine Learnign (under review), preprint [arXiv:2506.07327v2](https://arxiv.org/abs/2506.07327)*
+> Springer Machine Learning (under review), preprint [arXiv:2506.07327v2](https://arxiv.org/abs/2506.07327)*
 
 ---
 
