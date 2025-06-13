@@ -26,6 +26,18 @@ This repo includes:
 
 ---
 
+## 🔍 Example
+
+<p align="center">
+  <img src="imgs/grad_cam.png" alt="Grad-CAM Explanation" width="750"/>
+  <img src="imgs/case.png" alt="CASE Explanation" width="750"/>
+</p>
+
+**Figure**: Saliency maps for different class labels on the same input using Grad-CAM vs. CASE. Grad-CAM highlights nearly identical regions regardless of class label, whereas CASE isolates distinct class-relevant evidence.
+
+---
+
+
 ## 🧪 Reproducing Experiments
 
 ### 1. Setup Environment

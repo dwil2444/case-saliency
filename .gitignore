@@ -361,7 +361,7 @@ slurm_output/*
 
 # images
 *.png 
-imgs/*
+#imgs/*
 
 
 # datasets
